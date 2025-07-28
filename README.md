@@ -6,12 +6,12 @@
   </a>
 </p>
 
-I'm a passionate Fullstack Developer currently studying at **Code College**. I enjoy building robust and scalable web applications.
+I'm a Fullstack Developer currently studying at **Code College**.
 
-- 📍 Based in Pretoria, Gauteng, South Africa (UTC +2)
-- 📅 I am <img src="https://img.shields.io/badge/dynamic/json?url=https://ulrich-age.vercel.app/api&query=%24.age&label=years%20old" alt="My Age"/> (This automatically updates!)
-- 🔭 I’m currently working on sharpening my skills in various technologies.
-- 🌱 I’m currently learning and exploring the depths of full-stack development.
+- Based in Pretoria, Gauteng, South Africa (UTC +2)
+- I am currently 18 years old
+- I’m currently working on sharpening my skills in various technologies for my stack.
+- I’m currently learning and exploring the depths of full-stack development.
 
 ---
 
