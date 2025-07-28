@@ -15,7 +15,7 @@ I'm a Fullstack Developer currently studying at **Code College**.
 
 ---
 
-### 💻 My Tech Stack
+### My Tech Stack:
 
 Here are some of the technologies I'm proficient in:
 
@@ -33,7 +33,7 @@ Here are some of the technologies I'm proficient in:
 
 ---
 
-### 📊 My GitHub Stats
+### My GitHub Stats:
 
 <p align="center">
   <a href="https://github.com/UlrichSnyman">
@@ -47,9 +47,10 @@ Here are some of the technologies I'm proficient in:
 
 ---
 
-### 📫 How to reach me:
+### How to reach me:
 
 <!-- Add your social media links here -->
 <!-- Example: -->
-<!-- <a href="https://www.linkedin.com/in/your-linkedin-profile/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> -->
-<!-- <a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a> -->
+<a href="https://www.linkedin.com/in/ulrich-snyman-a5a980368/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> 
+Or Contact Me At:
+[ulrichsnymancode@gmail.com](mailto:ulrichsnymancode@gmail.com)
