@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/UlrichSnyman">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula&count_private=true" alt="Ulrich Snyman's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=UlrichSnyman&show_icons=true&theme=dracula&count_private=true" alt="Ulrich Snyman's GitHub Stats" />
   </a>
 </p>
 
@@ -37,12 +37,12 @@ Here are some of the technologies I'm proficient in:
 
 <p align="center">
   <a href="https://github.com/UlrichSnyman">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dracula" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlrichSnyman&layout=compact&theme=dracula" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UlrichSnyman&theme=dracula" alt="GitHub Streak" />
 </p>
 
 ---
