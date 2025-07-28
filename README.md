@@ -52,5 +52,6 @@ Here are some of the technologies I'm proficient in:
 <!-- Add your social media links here -->
 <!-- Example: -->
 <a href="https://www.linkedin.com/in/ulrich-snyman-a5a980368/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> 
+<br><br>
 Or Contact Me At:
 [ulrichsnymancode@gmail.com](mailto:ulrichsnymancode@gmail.com)
