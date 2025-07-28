@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Ulrich Snyman!
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/UlrichSnyman">
     <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula&count_private=true" alt="Ulrich Snyman's GitHub Stats" />
   </a>
 </p>
@@ -36,7 +36,7 @@ Here are some of the technologies I'm proficient in:
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/UlrichSnyman">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dracula" alt="Top Languages" />
   </a>
 </p>
